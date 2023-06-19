@@ -1,0 +1,2 @@
+# MorningMotivation
+Morning alarm generator
